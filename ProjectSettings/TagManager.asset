@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PortalCamera
+  - PortalWall
+  - HumanPortal
+  - GhostCamera
+  - PPKey
+  - ElevatorButton1
+  - ElevatorButton2
+  - ElevatorButton3
+  - ElevatorButton4
+  - ElevatorButton5
+  - ElevatorButton6
+  - ElevatorButton7
+  - ElevatorButton8
+  - ElevatorButton9
+  - ElevatorDeleteButton
+  - projectile
+  - FxTemporaire
+  - Elevator
+  - SpringJoint
+  - PortalCameraView
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ghost
+  - OuterWalls
+  - Human
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
